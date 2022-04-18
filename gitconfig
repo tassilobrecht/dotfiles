@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 94458964+tassilobrecht@users.noreply.github.com
+	name = Tassilo Brecht
